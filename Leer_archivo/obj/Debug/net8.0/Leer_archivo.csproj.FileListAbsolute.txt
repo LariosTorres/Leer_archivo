@@ -1,0 +1,14 @@
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\bin\Debug\net8.0\Leer_archivo.exe
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\bin\Debug\net8.0\Leer_archivo.deps.json
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\bin\Debug\net8.0\Leer_archivo.runtimeconfig.json
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\bin\Debug\net8.0\Leer_archivo.dll
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\bin\Debug\net8.0\Leer_archivo.pdb
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.AssemblyInfoInputs.cache
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.AssemblyInfo.cs
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.csproj.CoreCompileInputs.cache
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.dll
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\refint\Leer_archivo.dll
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.pdb
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.genruntimeconfig.cache
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\ref\Leer_archivo.dll

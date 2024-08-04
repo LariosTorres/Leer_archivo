@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Leer_archivo/1.0.0": {
+        "runtime": {
+          "Leer_archivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leer_archivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
