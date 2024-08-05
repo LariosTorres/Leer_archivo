@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leer_archivo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0819ce9f900b4bbc23e3204a72839b16500d3657")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leer_archivo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leer_archivo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

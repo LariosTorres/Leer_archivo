@@ -12,3 +12,4 @@ C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\refint\Le
 C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.pdb
 C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.genruntimeconfig.cache
 C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\ref\Leer_archivo.dll
+C:\Users\l1610\source\repos\Leer_archivo\Leer_archivo\obj\Debug\net8.0\Leer_archivo.sourcelink.json

@@ -1,32 +1,27 @@
-﻿namespace Leer_archivo
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Leer_archivo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            StreamReader lector = new StreamReader(@"C:\Users\l1610\Downloads\Final\archivo.txt");
-            string linea;
-            linea = lector.ReadLine();
+            Console.WriteLine("Ingrese palabra a buscar");
+            string palabra_bruscar = Console.ReadLine();
 
-            int num_linea = 1;
-
-            Console.WriteLine("¿Que palabra buscas?");
-            string palabra_buscada = Console.ReadLine();
-
-            if (linea.Contains(palabra_buscada))
-                Console.WriteLine($"La palabra que buscas esta en la linea {num_linea} y esta en la posision {linea.IndexOf(palabra_buscada) + 1}");
-            else
-                while ((linea = lector.ReadLine()) != null)
-                {
-                    num_linea++;
-                    if (linea.Contains(palabra_buscada))
-                    {
-                        Console.WriteLine($"La palabra que buscas esta en la linea {num_linea} y esta en la posision {linea.IndexOf(palabra_buscada) + 1}");
-                        break;
-                    }
-
-                }
-            lector.Close();
+            //instanciamos la clase Direccion_archivos para poder acceder a ella
+            Direccion_archivos dir = new Direccion_archivos();
+            //Lista que almacenaa la lista que retorna el metodo Ruta_archivos
+            List<string> list_rutas = dir.Ruta_archivos();
+            
+            foreach (string ruta in list_rutas)
+            {
+                Buscador.Buscar_palabra(ruta,palabra_bruscar);
+            }
         }
     }
 }
